@@ -1,6 +1,20 @@
 .App {
   text-align: center;
 }
+.text-c{
+  text-align: center;
+}
+.flex{
+
+}
+.backgroung-img{
+  background-image: url('https://i.ytimg.com/vi/rrvB0s3YpSs/maxresdefault.jpg');
+  /*width: '100%';*/
+}
+.flex{
+  display: flex;
+}
+
 
 .App-logo {
   height: 40vmin;
